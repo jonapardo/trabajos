@@ -1,0 +1,24 @@
+    /*selector univesal*/
+    *{ 
+        background-color: rgb(203, 255, 196) ;
+         }
+    /*slector*/
+
+    h1{ color:blueviolet}
+
+     /*selector de tipo clase*/
+     .letra{ 
+        color: green;
+     }
+
+    .letra-1{ 
+       color: rgb(0, 4, 255);
+    }
+    .letra-2{ 
+        color: rgb(255, 0, 200);
+
+     }
+
+    /*slector*/
+    
+    h2{ color:rgb(43, 226, 98)}
